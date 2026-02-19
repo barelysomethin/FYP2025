@@ -2,7 +2,9 @@
 
 A web-based application that uses AI to generate extractive, abstractive, and hybrid summaries of news articles.
 
-## Features
+## Feature<img width="1900" height="916" alt="pasteurl" src="https://github.com/user-attachments/assets/67e2ae70-9666-4b46-b940-3834a843c726" />
+s
+<img width="1884" height="906" alt="summary" src="https://github.com/user-attachments/assets/a3d30ff8-5128-4c69-b6ee-5eafd4ffba8d" />
 
 - **Extractive Summary**: Uses TextRank algorithm to identify key sentences.
 - **Abstractive Summary**: Uses Facebook's BART Large CNN model via Hugging Face API to generate human-like summaries.
