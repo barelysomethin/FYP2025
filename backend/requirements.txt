@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+newspaper3k
+nltk
+networkx
+requests
+python-dotenv
+numpy
+scikit-learn
+pydantic
+lxml_html_clean
